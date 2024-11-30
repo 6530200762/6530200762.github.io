@@ -6,4 +6,4 @@
 
   ![profile](profile.jpg)
 
-[Tranmission Control Protocol (TCP)](TCP)
+[Transmission Control Protocol (TCP)](TCP)
