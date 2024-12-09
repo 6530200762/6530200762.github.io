@@ -4,6 +4,6 @@
    -  Pooh
 
 
-  ![profile](profile.jpg)
+  ![profile](pic/profile.jpg)
 
 [Transmission Control Protocol (TCP)](TCP)
