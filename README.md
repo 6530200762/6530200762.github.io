@@ -8,4 +8,4 @@
 
 [Transmission Control Protocol (TCP)](TCP)
 
-[E-Card New Year 2025 (e-card)](e-card)
+[E-Card New Year 2025 (E-card)](e-card.png)
