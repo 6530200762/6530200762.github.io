@@ -9,3 +9,5 @@
 [Transmission Control Protocol (TCP)](TCP)
 
 [E-Card New Year 2025 (E-Card)](e-card.md)
+
+[Data Validity (Validity)](Validity.md)
