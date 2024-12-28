@@ -1,4 +1,4 @@
-<center><h1>DATA VALIDITY</center>></h1>
+<center><h1>DATA VALIDITY</center></h1>
 
 Defination by [Validity](https://castordoc.com/data-strategy/what-is-data-validity)
 
