@@ -10,4 +10,4 @@
 
 [E-Card New Year 2025 (E-Card)](e-card.md)
 
-[Data Validity (Validity)](Validity.md)
+[Data Quality (Data Validity)](Validity.md)
