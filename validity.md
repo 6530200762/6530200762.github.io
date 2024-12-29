@@ -1,6 +1,6 @@
 <center><h1>DATA VALIDITY</h1></center>
 
-<strong>Defination by [Validity](https://castordoc.com/data-strategy/what-is-data-validity)</strong>
+<strong>Definition by [Validity](https://castordoc.com/data-strategy/what-is-data-validity)</strong>
 
 - Data validity is a fundamental aspect of any research or data analysis. It refers to the accuracy and reliability of data, ensuring that the measurements and observations are trustworthy, consistent, and unbiased.
 
