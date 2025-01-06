@@ -3,7 +3,7 @@
   ![profile](pic/profile.jpg)
 
 Personal Profile
-- Purinut Ekpongpradit
+ - Purinut Ekpongpradit
    -  Nickname : Pooh
    -  Age : 20
    -  KU ID : 6530200762
@@ -11,10 +11,10 @@ Personal Profile
    -  Major : Computer Science
 
 About Me
-- A Computer Science student from Kasetsart University, Si Racha Campus, Proficient in designing and developing interactive dashboards, e-commerce platforms, and web applications using tools such as Python, SQL, and Tableau. Passionate about solving complex problems.
+   - A Computer Science student from Kasetsart University, Si Racha Campus, Proficient in designing and developing interactive dashboards, e-commerce platforms, and web applications using tools such as Python, SQL, and Tableau. Passionate about solving complex problems.
 
 Education
-   Buranawit School --> Mathayom Wat Dusitaram School --> Kasetsart University
+   - Buranawit School --> Mathayom Wat Dusitaram School --> Kasetsart University
 
 Soft Skills
    - Flexibility and Adaptability
@@ -30,4 +30,5 @@ Works
    - [Data Quality (Validity)](validity.md)
 
 Projects
+   - [Chance of rain in each province Statistics Dashboard (tableau)](Statistics Dashboard)
 
