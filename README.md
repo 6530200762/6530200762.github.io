@@ -54,7 +54,7 @@ I am a Computer Science student with expertise in developing interactive dashboa
 ---
 ## 📋 **Certificates**
 - [Java Test from testdome](certificate/java_testdome.png)
-- [Statistical Methods from Matlab](certificate/certificate)
+- [Statistical Methods from Matlab](certificate/matlab_certificate)
 
 
 
