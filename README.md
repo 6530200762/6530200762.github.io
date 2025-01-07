@@ -55,6 +55,7 @@ I am a Computer Science student with expertise in developing interactive dashboa
 ## 📋 **Certificates**
 - [Java Test (Testdome)](certificate/java_testdome.png)
 - [Statistical Methods (Matlab)](certificate/matlab_certificate.pdf)
+- [MATLAB Onramp (Matlab)](certificate/matlab_certificate2.pdf)
 - [Data Management and Data Analysis Mircrosoft Excel](certificate/excel_certificate.png)
 - [Microsoft Excel and PowerPoint professional](certificate/powerpoint_certificate.png)
 - [ChatGPT and AI for digital students](certificate/chatgpt_certificate.png)
