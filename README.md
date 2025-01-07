@@ -53,7 +53,7 @@ I am a Computer Science student with expertise in developing interactive dashboa
 
 ---
 ## 📋 **Certificate**
-- [java test from testdome](certificate/java_testdome.jpg)
+- [java test from testdome](certificate/java_testdome.png)
 
 
 
