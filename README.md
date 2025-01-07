@@ -52,8 +52,9 @@ I am a Computer Science student with expertise in developing interactive dashboa
   *A complete system to streamline rental management processes.*
 
 ---
-## 📋 **Certificate**
-- [java test from testdome](certificate/java_testdome.png)
+## 📋 **Certificates**
+- [Java Test from testdome](certificate/java_testdome.png)
+- [Mathla
 
 
 
