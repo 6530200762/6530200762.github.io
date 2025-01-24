@@ -22,3 +22,5 @@
 [6530250395 นายธนบดี บุญสุข](https://realalunda.github.io/cyberboardgame)
 
 [6530250166 นายพิชานัต พรหมณี](https://naieric.github.io/cyberboardgame)
+
+[6530200835 สรสิช ปัญญางค์](https://bossmahob.github.io/cyberboardgame.html)
