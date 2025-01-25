@@ -23,4 +23,6 @@
 
 [6530250166 นายพิชานัต พรหมณี](https://naieric.github.io/cyberboardgame)
 
-[6530200835 สรสิช ปัญญางค์](https://bossmahob.github.io/cyberboardgame.html)
+[6530200835 นายสรสิช ปัญญางค์](https://bossmahob.github.io/cyberboardgame.html)
+
+[6530250093 นายธนพัฒน์ อุไรวงษ์](https://friday1313.github.io/cyberboardgame)
