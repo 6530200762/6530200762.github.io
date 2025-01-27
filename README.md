@@ -36,7 +36,7 @@ I am a Computer Science student with expertise in developing interactive dashboa
 - [E-Card New Year 2025](e-card.md)  
 - [Data Quality: Validity](validity.md)
 - [Cyber Boardgame](cyberbg.md)  
-
+- [Security-Control](security-control.md)
 ---
 
 ## 🚀 **Projects**  
