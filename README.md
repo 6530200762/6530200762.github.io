@@ -1,5 +1,5 @@
 # [6530200762.github.io](6530200762.github.io)  
-![Profile](pic/profile.jpg)  
+![Profile](pic/myprofile.jpg)  
 
 ## 👤 **Personal Profile**  
 - **Name:** Purinut Ekpongpradit  
