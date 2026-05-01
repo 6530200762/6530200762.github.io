@@ -4,22 +4,21 @@
 ## 👤 **Personal Profile**  
 - **Name:** Purinut Ekpongpradit  
 - **Nickname:** Pooh  
-- **Age:** 20  
-- **KU ID:** 6530200762  
+- **Age:** 20
 - **University:** Kasetsart University (Si Racha Campus)  
 - **Major:** Computer Science  
 
 ---
 
 ## 📖 **About Me**  
-I am a Computer Science student with expertise in developing interactive dashboards, e-commerce platforms, and web applications. Proficient in Python, SQL, and Tableau, I am passionate about solving complex problems and delivering efficient solutions.  
+Computer Science graduate with hands-on experience as a Full-Stack Web Developer through internship and capstone project. Experienced in designing and developing responsive, user-friendly web applications, including an e-commerce platform. Proficient in C#, ASP.NET, HTML, CSS, JavaScript, and SQL. During internship, developed features to retrieve, process, and display data from SQL queries for dynamic search functionality on web interfaces.
 
 ---
 
 ## 🎓 **Education**  
 - **Buranawit School**
 - **Mathayom Wat Dusitaram School**  
-- **Kasetsart University**  
+- **Kasetsart University Sriracha Campus**  
 
 ---
 
